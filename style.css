@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+background-color: black;
+}
+body{
+  font-family: Futura;
+}
+
+#navigationBar{
+position: fixed;
+top: 0px;
+left: -20px;
+height: 80px;
+width: 150%;
+background-color: red;
+}
+
+h1{
+
+font: 12pt;
+padding-left: 130px;
+padding-right:150px;
+word-spacing: 360px;
+}
+#mainContainer{
+
+}
+#message {
+  width: 50%;
+  height: 100px;
+  position: fixed;
+  top: 80px;
+  left: -20px;
+  text-align: center;
+  color: red;
+}
+.vetements{
+  position: fixed;
+  top: 319px;
+  left: -120px;
+height: 60%;
+  background-size: auto;
+}
+
+.protest{
+  position: fixed;
+  top: 319px;
+  left: 720px;
+
+  height: 60%;
+  background-size: auto;
+
+
+}
+#mainTitleText{
+  font-size: 32pt;
+}
+
+#nextTitleText{
+  font-size: 20pt;
+  text-align: center;
+}
+
+.thumbnailImagetwo{
+    width: 25%;
+    position: absolute;
+  right: 360px;
+  top: 80px;
+}
+.thumbnailImagethree{
+    width: 25%;
+
+    position: absolute;
+right: 2px;
+  top: 80px;
+  margin-left: 0px;
+}
+
+#messagelabor{
+  font-size: 20pt;
+  position: absolute;
+  top: 280px;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: red;
+
+}
+#childlabor{
+background-image: url('https://www.trbimg.com/img-599daba2/turbine/lat-fi-garment-workers-la0056522360-20170822/1500/2x1');
+background-size: cover;
+height: 700px;
+background-position: center;
+}
+
+#clothes{
+  background-image: url('https://vintagethreads.eu/wp-content/uploads/2019/01/Clothes-in-Landfill-1.jpg');
+  background-size: cover;
+  height: 700px;
+  background-position: center;
+}
+#messageclothes{
+  font-size: 20pt;
+  position: absolute;
+  top: 980px;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: red;
+}
+#pollution{
+  background-image: url('https://i.pinimg.com/originals/03/1e/bd/031ebd0efd894a57ad07ea66c9cb0f1a.jpg');
+  background-size: cover;
+  height: 700px;
+  background-position: center;
+}
+#messagepollution{
+font-size: 20pt;
+position: absolute;
+top: 1680px;
+text-align: center;
+margin-right: 100px;
+margin-left: 100px;
+color: red;}
+
+#messagedonate{
+  font-size: 21pt;
+  position: absolute;
+  top: 280px;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 450px;
+  color: red;
+
+}
+#messagethrift{
+  font-size: 21pt;
+  position: absolute;
+  top: 980px;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 450px;
+  color: red;
+}
+#messagequality{
+font-size: 21pt;
+position: absolute;
+top: 1680px;
+text-align: center;
+margin-right: 100px;
+margin-left: 100px;
+color: red;}
+
+#donate{
+background-image: url('https://i.redd.it/4ekmumwcgu721.jpg');
+background-size: cover;
+height: 700px;
+background-position: center;
+}
+#thrift{
+background-image: url('https://res-2.cloudinary.com/dostuff-media/image/upload//w_1200,q_75,c_limit,f_auto/v1502987259/page-image-9955-d53256a7-48ac-4ed5-9635-47738ad67fa1.jpg');
+background-size: cover;
+height: 700px;
+background-position: center;
+}
+#quality{
+background-image: url('https://images.milled.com/2019-06-16/YVqHwUsZe1if-JjE/lVjxMUISyCMY.jpg');
+background-size: cover;
+height: 700px;
+background-position: center;
+}
